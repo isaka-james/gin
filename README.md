@@ -75,3 +75,8 @@ Adjusted the file structure section to include the `middleware` directory.
 This project is licensed under the MIT License.
 
 
+License
+
+This project is licensed under the MIT License.
+
+Experience immediate speed with GIN-Booster!
