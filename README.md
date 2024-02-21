@@ -1,4 +1,5 @@
 # GIN-Booster
+<img src="https://komarev.com/ghpvc/?username=gin&label=gin&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 ## Overview
 GIN-Booster, a lightweight enhancement for GIN framework, prioritizes speed and efficiency. The tool is intentionally designed with a streamlined file structure, emphasizing a quick and straightforward development experience.
@@ -18,7 +19,7 @@ GIN-Booster, a lightweight enhancement for GIN framework, prioritizes speed and 
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/reprogamaco/gin
+   git clone https://github.com/isaka-james/gin
 ```
 2. Run the installation script as root:
 ```bash
