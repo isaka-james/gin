@@ -1,5 +1,5 @@
 # GIN-Booster
-<img src="https://komarev.com/ghpvc/?username=gin&label=gin&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
+<img src="https://komarev.com/ghpvc/?username=gin-booster&label=gin&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 ## Overview
 GIN-Booster, a lightweight enhancement for GIN framework, prioritizes speed and efficiency. The tool is intentionally designed with a streamlined file structure, emphasizing a quick and straightforward development experience.
